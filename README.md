@@ -1,5 +1,9 @@
 👋 Hi, I’m @Zarthus
 
+Backend engineering (PHP, Kotlin, Rust), security audits, scrum master, devops & on a good day a decent full-stack engineer. 
+
+Hobbyist writer, world builder, & dungeon master.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarthus&count_private=true&show_icons=true&theme=dracula" height="175px" />
 </a>
