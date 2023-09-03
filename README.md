@@ -11,3 +11,5 @@ Hobbyist writer, world builder, & dungeon master.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarthus&layout=compact&langs_count=6&theme=dracula&exclude_repo=dotfiles" height="175px"  />
 </a>
+
+Read more about me on <a href="https://liefland.net">Liefland.net, my personal website</a>.
