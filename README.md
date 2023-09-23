@@ -5,7 +5,7 @@ Backend engineering (PHP, Ruby, Go, Rust), security audits, scrum master, open s
 
 Hobbyist writer, world builder, & dungeon master.
 
-Read more about me on <a href="https://liefland.net">Liefland.net, my personal website</a>.
+Read more about me on <a href="https://liefland.net">Liefland.net, my personal website</a>. Some of my projects live in a <a href="https://github.com/Liefland">personal organisation</a>.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarthus&count_private=true&show_icons=true&theme=dracula" height="175px" />
