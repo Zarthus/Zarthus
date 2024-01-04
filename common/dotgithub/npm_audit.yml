@@ -1,5 +1,13 @@
 name: 'Audit'
-on: [push, pull_request]
+on:
+  pull_request:
+    paths:
+      - "**/package.json"
+      - "**/package-lock.json"
+  push:
+    paths:
+      - "**/package.json"
+      - "**/package-lock.json"
 
 jobs:
     audit:
