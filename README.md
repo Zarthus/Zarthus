@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @Zarthus
 
-Backend engineering (PHP, Ruby, Go, Rust), security audits, scrum master, open source enthousiast, devops & on a good day a decent full-stack engineer. 
+Backend engineering (Rust, Go, PHP, Ruby), security audits, scrum master, open source enthousiast, devops & on a good day a decent full-stack engineer. 
 
 Hobbyist writer, world builder, & dungeon master.
 
