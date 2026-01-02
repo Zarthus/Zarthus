@@ -1,11 +1,11 @@
 
 👋 Hi, I’m @Zarthus
 
-Backend engineering (Rust, Go, PHP, Ruby), security audits, scrum master, open source enthousiast, devops & on a good day a decent full-stack engineer. 
+Backend engineering, security audits, scrum master, open source enthousiast, DevSecOps & on a good day a decent full-stack engineer. 
 
 Hobbyist writer, world builder, & dungeon master.
 
-Read more about me on <a href="https://liefland.net">Liefland.net, my personal website</a>. Some of my projects live in a <a href="https://github.com/Liefland">personal organisation</a>.
+Some of my projects live in a <a href="https://github.com/Liefland">personal organisation</a>.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarthus&count_private=true&show_icons=true&theme=dracula" height="175px" />
